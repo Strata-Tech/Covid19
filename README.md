@@ -27,4 +27,4 @@ An animated chart to visualize from the beginning of Covid-19 till date. To prov
 
  ![Screenshot 2021-08-09 at 11 33 25 AM](https://user-images.githubusercontent.com/77420780/128657877-c7dc1dab-8ab4-445a-a8b4-2d025d528d40.png)
  
- Please refer to file:///Users/vincentfoo/Desktop/bubbles.html  for animated chart. (file is too big to upload to code)
+ Please refer to file:///Users/vincentfoo/Desktop/bubbles.html  for animated chart. (file is too big to upload)
