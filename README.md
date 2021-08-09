@@ -5,15 +5,15 @@
 ## Background
 In this project I track how the novel coronavirus is spreading around the globe with up-to-date visuals that give context to the data collected from Johns Hopkins University's COVID-19 datasets
 
-file:///Users/vincentfoo/Desktop/bubbles.html 
+
 
 ![fusion-medical-animation-EAgGqOiDDMg-unsplash](https://user-images.githubusercontent.com/77420780/128674801-580eeea5-a2ca-4df6-a14a-e2978609bdde.jpg)
 
 
 ## Technologies used
-*Pandas
-*Numpy
-*Plotly
+* Pandas
+* Numpy
+* Plotly
 
 ## Data Preprocessing and cleaning
 There are various discrepancies in the dataset like some country reports confirmed and deaths by province, but recovered by entire country's total.
