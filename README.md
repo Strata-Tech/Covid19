@@ -3,7 +3,7 @@
 
 
 ## Background
-In this project I track how the novel coronavirus is spreading around the globe with up-to-date visuals that give context to the data collected on Johns Hopkins University's COVID-19 datasets
+In this project I track how the novel coronavirus is spreading around the globe with up-to-date visuals that give context to the data collected from Johns Hopkins University's COVID-19 datasets
 
 file:///Users/vincentfoo/Desktop/bubbles.html 
 
