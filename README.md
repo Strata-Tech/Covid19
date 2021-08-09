@@ -7,8 +7,8 @@ In this project I track how the novel coronavirus is spreading around the globe 
 
 file:///Users/vincentfoo/Desktop/bubbles.html 
 
+![fusion-medical-animation-EAgGqOiDDMg-unsplash](https://user-images.githubusercontent.com/77420780/128674801-580eeea5-a2ca-4df6-a14a-e2978609bdde.jpg)
 
-![Screenshot 2021-07-19 at 1 45 42 PM](https://user-images.githubusercontent.com/77420780/126109182-9d826bd6-7c71-43ec-b5c6-d6b02b685043.png)
 
 
 ## Technologies used
